@@ -87,4 +87,4 @@ The project utilized data and information from the following sources:
 6. Ritchie, H., Rosado, P., Roser, M.: Crop yields. Our World in Data (2022), accessed on October 20, 2023
 7. pandas development team, T.: pandas: Powerful data structures for data analysis (2023), accessed: 2023-11-02
 8. USDA: Food security status of U.S. households in 2022 (2023), accessed on October 2 2023
-9.
+9. https://github.com/jordanwheeler7/capstone-crop-yield/tree/main
